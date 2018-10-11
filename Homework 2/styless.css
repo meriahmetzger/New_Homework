@@ -1,0 +1,11 @@
+h1, h2 , h3, h4, a {font-family: cursive; color:navy;
+}
+p {font-size: 64px; text-decoration: underline; text-decoration: upercase; }
+
+img { height: 600px; width: auto;}
+table,th,td {
+  border: 2px solid orange;
+}
+a {font-size: 40px;
+}
+a:hover {color: orange; }
